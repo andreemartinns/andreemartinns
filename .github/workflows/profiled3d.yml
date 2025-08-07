@@ -3,7 +3,7 @@ name: GitHub-Profile-3D-Contrib
 on:
   push:
     branches:
-      - main
+      - main develop
 
 permissions:
   contents: write
