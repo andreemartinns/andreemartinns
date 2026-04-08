@@ -1,9 +1,3 @@
-<h1 align="center">André Martins</h1>
+# André Martins
 
-<p align="center">
-  Backend e Frontend 
-</p>
-
-
-![](profile-3d-contrib/profile-night-view.svg)
-
+Desenvolvedor em formação | Backend e Frontend
