@@ -1,32 +1,29 @@
 # André Martins
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00ffcc&size=22&center=true&vCenter=true&width=500&lines=Estudante de tecnologia | Desenvolvimento de software;Backend+%7C+Frontend" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00ffcc&size=20&center=true&vCenter=true&width=400&lines=Estudante+de+Tecnologia;Desenvolvimento+de+Software" />
 </p>
 
-```txt
-> status: learning...
-> foco: backend | frontend
-```
+<p align="center">
+  <sub>Backend | Frontend</sub>
+</p>
 
 ---
 
-## 🧠 Sobre mim
+## Sobre mim
 
-Estudante de tecnologia no 3º semestre, focado em desenvolvimento de software e evolução constante.
+Estudante de tecnologia no 3º semestre, com foco em desenvolvimento de software e aprimoramento contínuo.
 
 ---
 
-## ⚙️ Tecnologias
+## Tecnologias
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=java,html,js,php,css,mysql" />
 </p>
 
 ---
 
-## 🚀 Objetivo
+## Objetivo
 
-Busco uma oportunidade de estágio para crescer profissionalmente e adquirir experiência prática.
-
-
+Busco uma oportunidade de estágio para adquirir experiência prática e evoluir profissionalmente.
