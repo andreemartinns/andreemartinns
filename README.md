@@ -29,16 +29,4 @@ Estudante de tecnologia no 3º semestre, focado em desenvolvimento de software e
 
 Busco uma oportunidade de estágio para crescer profissionalmente e adquirir experiência prática.
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEUUSER&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00ffcc&height=100&section=footer"/>
-</p>
