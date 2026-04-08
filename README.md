@@ -1,7 +1,7 @@
 # André Martins
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00ffcc&size=22&center=true&vCenter=true&width=500&lines=Desenvolvedor+em+formação;Backend+%7C+Frontend" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00ffcc&size=22&center=true&vCenter=true&width=500&lines=Estudante de tecnologia | Desenvolvimento de software;Backend+%7C+Frontend" />
 </p>
 
 ```txt
