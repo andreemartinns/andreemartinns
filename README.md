@@ -17,7 +17,10 @@ Estudante de tecnologia no 3º semestre, focado em desenvolvimento e evolução 
 
 * Java
 * HTML
+* JavaScript
+* PHP
 * CSS
+* MySQL
 
 ---
 
