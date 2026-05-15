@@ -19,7 +19,7 @@ Estudante de tecnologia no 3º semestre, com foco em desenvolvimento de software
 ## Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,html,js,php,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,html,js,ts,angular,nodejs,express,scss,php,css,mysql" />
 </p>
 
 ---
